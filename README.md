@@ -22,3 +22,6 @@ The project structure is minimal but effective. It includes index.js for the bac
 
 Through this project, I learned how to build a full-stack web application using modern JavaScript technologies. I gained hands-on experience with setting up a server using Express, managing real-time events with Socket.IO, and manipulating the DOM dynamically based on live data. Some potential improvements include combining the username and message into a single event object, adding timestamps, storing chat history using a database like MongoDB, implementing authentication, and supporting private chat rooms. Additionally, form validation and UI enhancements such as typing indicators, emojis, or dark mode can improve the user experience.
 
+#output:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f0cc455d-635e-4f5e-bb82-8a5baa09dd34" />
